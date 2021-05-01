@@ -24,7 +24,7 @@
   <summary>Contents</summary>
   <ol>
     <li>
-      <a href="#Introduction-to-the-project">Introduction To The Project</a>
+      <a href="#Background">Background</a>
       <ul>
         <li><a href="#Summery">Summery</a></li>
         <li><a href="#Project-Objective">Project Objective</a></li>
@@ -32,7 +32,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Analysis-&-Visualization">Analysis & Visualization</a>
+      <a href="#Findings">Findings</a>
       <ul>
         </ul>
     </li>
@@ -40,7 +40,7 @@
   </ol>
 </details>
 
-## Introduction To The Project
+## Background
 
 ![product-screenshot]
 
@@ -54,7 +54,7 @@ The goal of this project is to use techniques of statistical analysis to get ben
 ### Project Data Source
 * **googleplaystore.csv** and **googleplaystore_user_reviews.csv** is collcted from [kaggle Play store dataset by Lavanya Gupta.](https://www.kaggle.com/lava18/google-play-store-apps)  
 
-### Analysis & Visualization
+### Finding
 ![Figure-1]
 
 **Figure1** shows the rating distribution of all apps in play store. As we can see between 4.5 to 4.0 is the most densed area where lion's share of apps lies. Average of rating of application in store is around 4 which is very high.
